@@ -1,10 +1,11 @@
-os.system("pkg update")
-os.system("pkg upgrade")
-os.system("pkg install git")
-os.system("pkg install python")
-os.system("pkg install python2")
-os.system("pip install requests")
-os.system("pip install bs4")
-os.system("pip install mechanize")
-os.system("pip install httpx")
-os.system("pip install instaloader")
+xdg-open https://Facebook.com/davil.ohid.202
+pkg update
+pkg upgrade
+pkg install git
+pkg install python
+pkg install python2
+pip install requests
+pip install bs4
+pip install mechanize
+pip install httpx
+pip install instaloader
