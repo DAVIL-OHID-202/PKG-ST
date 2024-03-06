@@ -1,5 +1,5 @@
-pkg install python
-pkg install python2
+pkg install python -y
+pkg install python2 -y
 pip install requests
 pip install bs4
 pip install mechanize
